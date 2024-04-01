@@ -18,22 +18,20 @@ Here are some ideas to get you started:
 Hi, I'm Anthony! I'm a social butterfly who lands myself in unique situations. Like when I went on a school trip to Paris and became a "mini-celebrity" within a tour group after meeting at the top of the Eiffel Tower. I'm quite ambitious and love applying my creative and systematic approaches to analytical problems. I'm not afraid to ask the "dumb" questions, especially since not doing so is how unfounded assumptions slip through on projects. However, despite my ambition, I'm passionate about ethical tech, as humans need to be thought of first and foremost! Ergo, I'd summarize my character as based on integrity, excellence, and perseverance.
 
 ## :star2: Experience :star2:
-### Core
+### Core 🧑‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Helpers
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Tools
+### Tools 🛠️
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-### Learning
+### I’m Currently Learning 🌱
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -44,6 +42,9 @@ Hi, I'm Anthony! I'm a social butterfly who lands myself in unique situations. L
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+<!--
+-make a badge for Grammarly
+-->
 
 ### Apps I Use A LOT :sunglasses:
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
@@ -56,17 +57,18 @@ Hi, I'm Anthony! I'm a social butterfly who lands myself in unique situations. L
 <!--
 -make a badge for Amplenote
 -make a badge for Fastmail
-[ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
+- example of plastic style badge:
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&style=plastic)
 -->
-Fun fact: Every app I use, I try to use or create keyboard shortcuts for everything... I don't even have an address or bookmarks bar in my browser :satisfied:
+Fun fact: For all these apps, I try to use or create keyboard shortcuts for everything... I don't even have an address or bookmarks bar in my browser :satisfied:
 
 <!--
 ## Grinding
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 -->
+## :file_folder: Projects :open_file_folder:
 
-## 🗣️ Want to Chat? 🗣️
+## Want to Chat? :speech_balloon:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![](https://raw.githubusercontent.com/oompas/fancy-github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/oompas/fancy-github-stats/master/generated/overview.svg#gh-light-mode-only)
+<img style="display: inline-block; margin-left: auto; margin-right: auto; width: 49%" src="https://github.com/oompas/fancy-github-stats/blob/master/generated/overview.svg">
