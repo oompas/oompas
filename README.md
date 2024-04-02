@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Anthony! :wave:
 
 <!--
 **oompas/oompas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Anthony! I'm a social butterfly who lands myself in unique situations. Like when I went on a school trip to Paris and became a "mini-celebrity" within a tour group after meeting at the top of the Eiffel Tower. I'm quite ambitious and love applying my creative and systematic approaches to analytical problems. I'm not afraid to ask the "dumb" questions, especially since not doing so is how unfounded assumptions slip through on projects. However, despite my ambition, I'm passionate about ethical tech, as humans need to be thought of first and foremost! Ergo, I'd summarize my character as based on integrity, excellence, and perseverance.
+I'm a social butterfly who lands myself in unique situations. Like when I went on a school trip to Paris and became a "mini-celebrity" within a tour group after meeting at the top of the Eiffel Tower (and they say life isn't a movie...). I'm quite ambitious and love applying my creative and systematic approaches to analytical problems. I'm not afraid to ask the "dumb" questions, especially since not doing so is how unfounded assumptions slip through on projects. However, despite my ambition, I'm passionate about ethical tech, as humans need to be thought of first and foremost! Ergo, I'd summarize my character as based on integrity, excellence, and perseverance.
 
 ## :star2: Experience :star2:
 ### Core 🧑‍💻
