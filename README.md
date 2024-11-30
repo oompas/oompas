@@ -1,4 +1,4 @@
-### Hi I'm Anthony! :wave:
+### Hi I'm Ava! :wave:
 
 <!--
 **oompas/oompas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
