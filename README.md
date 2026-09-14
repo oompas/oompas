@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm nearly finished my Economics degree after earning a Computing degree specializing in Software Design. I'm a lifelong learner who holds myself to high standards, blending creative and systematic thinking with a willingness to ask the "dumb" questions that ensure no box gets left unticked. In my free time, I enjoy embracing my inner millennial: avocado toast, yearning for a perpetually unaffordable home, and navigating an economy where it feels like almost every company is running an exit scam.
+I study economics at Queen's with a background in computer science, which is a roundabout way of saying I like building systems and refining them to work closer to our intentions. Most of my coursework focuses on data science and policy evaluation, and I'm currently deepening my machine learning skills on the side. In my free time, I enjoy embracing my inner millennial: avocado toast, yearning for a perpetually unaffordable home, and navigating an economy where it feels like almost every company is running an exit scam.
 
 ## :star2: Experience :star2:
 ### Core 🧑‍💻
